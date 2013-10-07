@@ -1,4 +1,6 @@
 uima-functions
 ==============
 
-Functions to aide the development of annotators within the Apache UIMA framework
+Functions to aid the development of annotators within the Apache UIMA framework.
+Most of the functions revolve around CAS navigation/Annotation retreival.
+
